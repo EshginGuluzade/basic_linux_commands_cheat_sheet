@@ -62,7 +62,7 @@ This cheat sheet contains useful terminal commands
 
      ![Picture16](https://user-images.githubusercontent.com/67023632/152628842-aaa0fbeb-b812-47f9-a4cd-59b7d04c4c51.png)
      
-* `reboot` --- Restart the system. It requires the `sudo` command.
+* `reboot` ---> Restart the system. It requires the `sudo` command.
 
      ![Picture17](https://user-images.githubusercontent.com/67023632/152628862-38487f73-a108-464f-ad81-d8a73413818a.png)
      
