@@ -2,7 +2,6 @@
 
 This cheat sheet contains useful terminal commands
 
-* `eshgin@eshgin-VirtualBox:~$ ls/n`
-`Desktop	Downloads  	Music 	Public 	Videos
-Documents  get-docker.sh  Pictures  Templates`
-`eshgin@eshgin-VirtualBox:~$`
+* `ls` ---> Lists the files and folders in the current directory.
+  
+![Picture1](https://user-images.githubusercontent.com/67023632/152628449-48cc356e-d293-47a2-8786-56ff6cdd43b7.png)
