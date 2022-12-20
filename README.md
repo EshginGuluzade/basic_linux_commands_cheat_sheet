@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=Bz3joDJeetw&ab_channel=BugX
+
 # The Very Basic Linux Commands Cheat Sheet
 
 This cheat sheet contains useful terminal commands
